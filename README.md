@@ -35,19 +35,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronnyasha&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronnyasha&layout=compact&theme=radical&hide_border=true" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ronnyasha&theme=radical&hide_border=true" />
-</p>
-
----
-
 ### 📌 Featured Projects
 
 
