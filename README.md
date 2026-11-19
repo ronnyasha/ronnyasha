@@ -2,13 +2,9 @@
 
 <h3 align="center">Information Systems Student @ KPI | Machine Learning & Computer Vision</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=4th+Year+Student+%40+KPI+FICT;Computer+Vision+%26+Deep+Learning;Open+to+Junior+AI+%2F+ML+Roles" alt="Typing SVG" />
-</p>
-
 ---
 
-### 🎓 About Me
+###  About Me
 
 - 🏫 4th-year student at **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**
 - 🖥️ Faculty of Informatics and Computer Science (**FICT**)
@@ -21,7 +17,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,java,tensorflow,pytorch,opencv,docker,aws,terraform,linux,git" />
@@ -35,7 +31,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 
 
 **[☁️ Cloud & DevOps Infrastructure Labs](https://github.com/ronnyasha/devops-and-cloud-labs)**
